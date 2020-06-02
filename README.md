@@ -3,6 +3,7 @@
 ### https://jestjs.io/docs/en/testing-frameworks
 ## Prerequisite
 ### npm i -D ts-jest @types/jest
+#### https://kulshekhar.github.io/ts-jest/user/config/
 ## Links
 ### https://github.com/facebook/jest
 ### https://www.valentinog.com/blog/jest/
