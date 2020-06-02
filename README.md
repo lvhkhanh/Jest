@@ -1,6 +1,8 @@
 # Jest
 ## Official
 ### https://jestjs.io/docs/en/testing-frameworks
+## Prerequisite
+### npm i -D ts-jest @types/jest
 ## Links
 ### https://github.com/facebook/jest
 ### https://www.valentinog.com/blog/jest/
