@@ -15,5 +15,6 @@
 npm install --global jest
 or
 yarn global add jest
-
+float numbers
+toBeCloseTo()
 ```
