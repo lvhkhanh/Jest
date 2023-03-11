@@ -4,6 +4,8 @@
 ## Prerequisite
 ### npm i -D ts-jest @types/jest
 #### https://kulshekhar.github.io/ts-jest/user/config/
+## Certifications
+- [x] Introduction to Unit Testing in Jest - The Fundamentals https://www.coursera.org/account/accomplishments/certificate/8NGCRYME4HSY
 ## Links
 ### https://github.com/facebook/jest
 ### https://www.valentinog.com/blog/jest/
