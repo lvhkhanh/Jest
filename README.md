@@ -17,4 +17,6 @@ or
 yarn global add jest
 float numbers
 toBeCloseTo()
+expect.assertions(n)
+return aPromisse().then(data -> {expect()...})
 ```
